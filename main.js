@@ -38,7 +38,7 @@ window.onload = function(){
   main.message = document.createElement( 'div' );
   main.afterDiv.appendChild( main.message );
   setStyles( main.message, {
-    color : '#000',
+    color : '#f00',
     fontFamily : 'ＭＳ ゴシック, sans-serif',
     fontSize : '32px',
     textShadow : '-2px -2px 0 #fff, 0px -2px 0 #fff, 2px -2px 0 #fff, -2px 0px 0 #fff, 2px 0px 0 #fff, -2px 2px 0 #fff, 0px 2px 0 #fff, 2px 2px 0 #fff'
